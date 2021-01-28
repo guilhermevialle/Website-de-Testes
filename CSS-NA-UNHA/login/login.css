@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@100;200;300;400;700&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    height: 100vh;
+}
+
+.header {
+    align-items: center;
+    width: 100%;
+    background-color: white;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+
+.logo {
+    max-width: 50px;
+    max-height: 50px;
+    margin: 20px;
+}
+
+.logo img{
+    cursor: pointer;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+    list-style: none;
+}
+
+.menu li a {
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #007965;
+    background-color: white;
+    padding: 10px;
+    border-style: solid;
+    border-width: 2px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-right: 30px;
+    text-decoration: none;
+    transition: 0.2s ease;
+}
+
+
+.menu li a:hover {
+    background-color: #007965;
+    color: white;
+    transition: 0.2s ease;
+    border-color: #007965;
+    border-width: 5px;
+}
+
+.login {
+    margin-right: 20px;
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+.login li a {
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+    background-color: #007965;
+    padding: 10px;
+    border-style: solid;
+    border-width: 2px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 1px;
+    text-decoration: none;
+    transition: 0.2s ease;
+}
+
+
+.login li a:hover {
+    background-color: #007965;
+    color: white;
+    transition: 0.2s ease;
+    border-color: #007965;
+    border-width: 5px;
+}
+
+.register {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.box {
+    box-shadow: 6px 8px 6px -6px rgb(56, 56, 56);
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+    height: 65vh;
+    border-radius: 5%;
+}
+
+.box .inputdado {
+    color: #043d34;
+    font-size: 20px;
+    margin-bottom: 20px;
+    width: 90%;
+    height: 50px;
+    border: 1px outset #007965;
+}
+
+.inputdado:focus {
+    outline: none;
+}
+
+::placeholder {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: #00796573;
+}
+
+.box h1 {
+    text-shadow: 1px 1px 2px #043d34;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 50px;
+    color: #007965;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.inputdado {
+    margin: 0 auto;
+}
+
+.check {
+    margin-left: 20px;
+}
+
+.checar label {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 2px;
+    color: #043d34;    
+}
+
+.boxregister {
+    text-shadow: 2px 2px 4px #000000;
+    width: 450px;
+    height: 90vh;
+}
+
+.boxregister h1 {
+    color: white;
+    font-size: 70px;
+    text-align: left;
+    font-family: 'MuseoModerno', cursive;
+}
+
+.boxregister span {
+    text-shadow: 4px 4px 8px #000000;
+    color: #ec9810fa;
+    font-size: 100px;
+}
+
+.checar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.btn button {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: #043d34;
+    font-size: 20px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    margin: 20px;
+    width: 90%;
+    height: 50px;
+    cursor: pointer;
+    border: 3px outset;
+    background-color: white;
+    transition: 0.2s ease;
+}
+
+.btn button:hover {
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+    color: white;
+    transition: 0.2s ease;
+    border-color: white;
+}
+
+.btn button:focus {
+    outline: none;
+}
+
+.fp a{
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #043d34;
+}
