@@ -10,6 +10,18 @@
 
 ### Screenshots
 
+- #### Home Page Interface
+
+![](https://github.com/guilhermevialle/Website-de-Testes/blob/main/CSS-NA-UNHA/Screenshots/capture.PNG)
+
+- #### Middle Page
+![](https://github.com/guilhermevialle/Website-de-Testes/blob/main/CSS-NA-UNHA/Screenshots/capture2.PNG)
+
+- #### Login
+![](https://github.com/guilhermevialle/Website-de-Testes/blob/main/CSS-NA-UNHA/Screenshots/capture3.PNG)
+
+- #### Register
+![](https://github.com/guilhermevialle/Website-de-Testes/blob/main/CSS-NA-UNHA/Screenshots/capture4.PNG)
 
 ------------
 
