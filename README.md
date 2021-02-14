@@ -14,13 +14,13 @@
 
 ![](https://github.com/guilhermevialle/Website-de-Testes/blob/main/CSS-NA-UNHA/Screenshots/capture.PNG)
 
-- #### Middle Page
+- #### Middle Page 
 ![](https://github.com/guilhermevialle/Website-de-Testes/blob/main/CSS-NA-UNHA/Screenshots/capture2.PNG)
 
-- #### Login
+- #### Login Website Interface
 ![](https://github.com/guilhermevialle/Website-de-Testes/blob/main/CSS-NA-UNHA/Screenshots/capture3.PNG)
 
-- #### Register
+- #### Sign In Website Interface
 ![](https://github.com/guilhermevialle/Website-de-Testes/blob/main/CSS-NA-UNHA/Screenshots/capture4.PNG)
 
 ------------
