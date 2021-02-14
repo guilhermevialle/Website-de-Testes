@@ -17,10 +17,10 @@
 - #### Middle Page 
 ![](https://github.com/guilhermevialle/Website-de-Testes/blob/main/CSS-NA-UNHA/Screenshots/capture2.PNG)
 
-- #### Login Website Interface
+- #### Website Login Interface
 ![](https://github.com/guilhermevialle/Website-de-Testes/blob/main/CSS-NA-UNHA/Screenshots/capture3.PNG)
 
-- #### Sign In Website Interface
+- #### Website Sign In Interface
 ![](https://github.com/guilhermevialle/Website-de-Testes/blob/main/CSS-NA-UNHA/Screenshots/capture4.PNG)
 
 ------------
