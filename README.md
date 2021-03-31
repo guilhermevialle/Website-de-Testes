@@ -8,7 +8,7 @@
 - HTML and CSS
 - Smooth animations
 
-### Screenshots
+### Preview
 
 - #### Home Page Interface
 
